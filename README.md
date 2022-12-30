@@ -1,3 +1,3 @@
 # DSA-Practise
 DSA Practise!
-Language C++
+Language: C++
